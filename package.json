@@ -21,17 +21,17 @@
   ],
   "author": "byWulf <wulf1337@gmail.com>",
   "contributors": [
-    "Anton Natarov (http://www.teall.info)"
+    "Anton Natarov (http://www.teall.info)",
+    "Ton Ly (BreadMoirai) <breadmoirai@gmail.com>"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/byWulf/threejs-dice/issues"
+    "url": "https://github.com/BreadMoirai/threejs-dice/issues"
   },
-  "homepage": "https://github.com/byWulf/threejs-dice#readme",
+  "homepage": "https://github.com/BreadMoirai/threejs-dice#readme",
   "dependencies": {
-    "@types/cannon": "^0.1.2",
-    "@types/three": "^0.131.0",
-    "cannon": "^0.6.2",
-    "three": "^0.137.0"
+    "@types/three": "^0.141.0",
+    "cannon-es": "^0.19.0",
+    "three": "^0.141.0"
   }
 }
