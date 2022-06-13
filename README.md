@@ -1,5 +1,7 @@
 # threejs-dice
 
+Fork of https://github.com/byWulf/threejs-dice that depends on cannon-es instead of cannon
+
 Create dice for your threejs scene and throw them on a specific side with cannonjs.
 
 ![Dice types](./docs/types.png) ![Start rolling](./docs/rolling_1.png) ![Finished rolling](./docs/rolling_2.png)
