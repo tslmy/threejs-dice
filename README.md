@@ -1,4 +1,4 @@
-# threejs-dice
+# threejs-dice-es
 
 Fork of https://github.com/byWulf/threejs-dice that depends on cannon-es instead of cannon
 

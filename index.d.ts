@@ -1,4 +1,6 @@
-import * as CANNON from 'cannon';
+// noinspection JSUnusedGlobalSymbols
+
+import * as CANNON from 'cannon-es';
 import * as THREE from 'three';
 
 declare class MeshWithBody extends THREE.Mesh {

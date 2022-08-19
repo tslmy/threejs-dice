@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <script src="../node_modules/three/build/three.js"></script>
-    <script src="../node_modules/cannon/build/cannon.js"></script>
+    <script src="../node_modules/cannon-es/build/cannon-es.js"></script>
     <script src="../node_modules/three/examples/js/controls/OrbitControls.js"></script>
     <script src="../node_modules/three/examples/js/libs/stats.min.js"></script>
 
@@ -46,7 +46,7 @@ function init()
 	stats = new Stats();
 	stats.domElement.style.position = 'absolute';
 	stats.domElement.style.bottom = '0px';
-	stats.domElement.style.zIndex = 100;
+	stats.domElement.style.zIndex = '100';
 	container.appendChild( stats.domElement );
 
 	let ambient = new THREE.AmbientLight('#ffffff', 0.3);
