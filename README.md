@@ -1,5 +1,8 @@
 # threejs-dice-es
 
+[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
 Fork of https://github.com/byWulf/threejs-dice that depends on cannon-es instead of cannon
 
 Create dice for your threejs scene and throw them on a specific side with cannonjs.
