@@ -5,11 +5,9 @@
 
 Create dice for your Three.js scene and throw them on a specific side with Cannon.js.
 
-![Dice types](https://github.com/user-attachments/assets/071b0b3c-affa-4d41-bad9-9c73525b3eac)
+By exposing the material as a configurable option, this fork allows you do build fancy scenes like this:
 
-| Start rolling | Finished rolling                                                                                     |
-| --- |------------------------------------------------------------------------------------------------------|
-| ![Start rolling](https://github.com/user-attachments/assets/6dc07b34-cb68-45f1-9239-8dd037e38389) | ![Finished rolling](https://github.com/user-attachments/assets/7fbe4cc7-158c-4f7d-b380-33f21f527845) |
+<img width="1852" alt="image" src="https://github.com/user-attachments/assets/cb67deae-897b-4028-97fb-8d21fb108afa">
 
 This is a fork from...
 * [byWulf/threejs-dice](https://github.com/byWulf/threejs-dice): The original repository.
@@ -17,9 +15,16 @@ This is a fork from...
     * [tslmy/threejs-dice](https://github.com/tslmy/threejs-dice) (this repo): Formatted with the [JavaScript Standard Style](https://standardjs.com/). Fixed bugs the prevented shadows from properly rendering. Made material configurable.
 
 ## Features
+
 * 4/6/8/10/12/20-sided dice available.
 * Appearance of the dice is customizable (size, font color, back color, and material).
 * Outcome is controllable. In other words, you can define the side/value that should be upside after the die settles.
+
+![Dice types](https://github.com/user-attachments/assets/071b0b3c-affa-4d41-bad9-9c73525b3eac)
+
+| Start rolling | Finished rolling                                                                                     |
+| --- |------------------------------------------------------------------------------------------------------|
+| ![Start rolling](https://github.com/user-attachments/assets/6dc07b34-cb68-45f1-9239-8dd037e38389) | ![Finished rolling](https://github.com/user-attachments/assets/7fbe4cc7-158c-4f7d-b380-33f21f527845) |
 
 ## Demos
 * [Types and sizes](./examples/types-and-sizes.html) - See the possible dice shapes and options (size / font color / back color)
