@@ -41,9 +41,8 @@ or you can simply use it statically:
         {
             "imports": {
                 "three": "https://unpkg.com/three@0.169.0/build/three.module.js",
-                "cannon-es": "https://cdn.jsdelivr.net/npm/cannon-es@0.20.0/dist/cannon-es.min.js"
-                "threejs-dice": "https://cdn.jsdelivr.net/gh/tslmy/threejs-dice@master/lib/dice.js",
-
+                "cannon-es": "https://cdn.jsdelivr.net/npm/cannon-es@0.20.0/dist/cannon-es.min.js",
+                "threejs-dice": "https://cdn.jsdelivr.net/gh/tslmy/threejs-dice@master/lib/dice.js"
             }
         }
     </script>
