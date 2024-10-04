@@ -5,7 +5,7 @@
 
 Create dice for your Three.js scene and throw them on a specific side with Cannon.js.
 
-By exposing the material as a configurable option, this fork allows you do build fancy scenes like this:
+By exposing the material as a configurable option, this fork allows you to build fancy scenes like this:
 
 <img width="1852" alt="image" src="https://github.com/user-attachments/assets/cb67deae-897b-4028-97fb-8d21fb108afa">
 
