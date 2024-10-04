@@ -27,8 +27,8 @@ This is a fork from...
 | ![Start rolling](https://github.com/user-attachments/assets/6dc07b34-cb68-45f1-9239-8dd037e38389) | ![Finished rolling](https://github.com/user-attachments/assets/7fbe4cc7-158c-4f7d-b380-33f21f527845) |
 
 ## Demos
-* [Types and sizes](./examples/types-and-sizes.html) - See the possible dice shapes and options (size / font color / back color)
-* [Rolling](./examples/rolling.html) - See, how you can roll 5 dice, which will always land on the same sides
+* [Types and sizes](docs/types-and-sizes.html) - See the possible dice shapes and options (size / font color / back color)
+* [Rolling](docs/rolling.html) - See, how you can roll 5 dice, which will always land on the same sides
 
 ## Install
 
