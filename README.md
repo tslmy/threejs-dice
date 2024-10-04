@@ -7,7 +7,11 @@ Fork of https://github.com/byWulf/threejs-dice that depends on cannon-es instead
 
 Create dice for your threejs scene and throw them on a specific side with cannonjs.
 
-![Dice types](./docs/types.png) ![Start rolling](./docs/rolling_1.png) ![Finished rolling](./docs/rolling_2.png)
+![Dice types](https://github.com/user-attachments/assets/071b0b3c-affa-4d41-bad9-9c73525b3eac)
+
+![Start rolling](https://github.com/user-attachments/assets/6dc07b34-cb68-45f1-9239-8dd037e38389)
+
+![Finished rolling](https://github.com/user-attachments/assets/7fbe4cc7-158c-4f7d-b380-33f21f527845)
 
 ## Features
 * 4/6/8/10/12/20 sided dice available
@@ -66,6 +70,7 @@ Create dice for your threejs scene and throw them on a specific side with cannon
     
 ## Credits
 Based on the "Online 3D dice roller" from http://a.teall.info/dice (http://www.teall.info/2014/01/online-3d-dice-roller.htm). Credits go to Anton Natarov, who published it under public domain.
-![Online 3D dice roller](./docs/teal_dice.png)
+
+![Online 3D dice roller](https://github.com/user-attachments/assets/b2fc204c-6e3e-4fb7-a930-9cbb99625a6f)
 
 "You can assume that it has the MIT license (or that else) if you wish so. I do not love any licenses at all and prefer to simply say that it is completely free =)" - Anton Natarov
